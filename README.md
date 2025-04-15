@@ -38,7 +38,7 @@ See [External Dependencies](#External-Dependencies) for details about how this f
 Simply clone the repository to get started:
 
 ```bash
-git clone https://github.com/<your_username>/losange.git
+git clone https://github.com/Fudgedotdotdot/losange.git
 cd losange
 ```
 
